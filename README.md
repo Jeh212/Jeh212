@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeh212
-- 👀 I’m interested in Node.js,React.js and Typescript 
+- 👀 I’m interested in Node.js, React.js and Typescript 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Node.js projects
 - 📫 How to reach me ... jeancarlos.souzasilva@gmail.com
